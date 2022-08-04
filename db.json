@@ -4,30 +4,30 @@
         "scores":   [
       {
         "userId": 1,
-        "score": 70,
+        "value": 70,
         "userName" : "Mariana"
       },
       {
         "userId":2,
-        "score": 20,
+        "value": 20,
         "userName" : "Samuel"
 
       },
       {
         "userId":3,
-        "score": 40,
+        "value": 40,
         "userName" : "Andres"
 
       },
       {
         "userId":4,
-        "score": 3400,
+        "value": 3400,
         "userName" : "santiago"
 
       },
       {
         "userId":5,
-        "score": 10,
+        "value": 10,
         "userName" : "Abraham"
   
       }
