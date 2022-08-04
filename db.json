@@ -1,11 +1,28 @@
 {
-  "posts": [
+    "scores": 
     {
-      "id": 1,
-      "title": "hello"
+        "scores":   [
+      {
+        "user_id": 1,
+        "score": 5
+      },
+      {
+        "user_id":2,
+        "score": 2
+      },
+      {
+        "user_id":3,
+        "score": 4
+      },
+      {
+        "user_id":4,
+        "score": 14
+      },
+      {
+        "user_id":5,
+        "score": 10
+      }
+        ] 
     }
-  ],
-  "profile": {
-    "name": "typicode"
   }
-}
+  
