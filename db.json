@@ -1,26 +1,35 @@
 {
-    "scores": 
+    "leaders": 
     {
         "scores":   [
       {
-        "user_id": 1,
-        "score": 5
+        "userId": 1,
+        "score": 70,
+        "userName" : "Mariana"
       },
       {
-        "user_id":2,
-        "score": 2
+        "userId":2,
+        "score": 20,
+        "userName" : "Samuel"
+
       },
       {
-        "user_id":3,
-        "score": 4
+        "userId":3,
+        "score": 40,
+        "userName" : "Andres"
+
       },
       {
-        "user_id":4,
-        "score": 14
+        "userId":4,
+        "score": 3400,
+        "userName" : "santiago"
+
       },
       {
-        "user_id":5,
-        "score": 10
+        "userId":5,
+        "score": 10,
+        "userName" : "Abraham"
+  
       }
         ] 
     }
