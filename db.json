@@ -27,12 +27,12 @@
       },
       {
         "userId":5,
-        "value": 10,
+        "value": 180,
         "userName" : "Abraham"
   
       },
      {
-        "userId":5,
+        "userId":6,
         "value": 1000,
         "userName" : "Luis"
   
